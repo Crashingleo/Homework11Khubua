@@ -14,7 +14,7 @@ public class Main {
         if ((year % 4) == 0 && god == true) {
             System.out.println(year + " Год високосный");
         } else {
-            System.out.println(year + " Год не високосный");
+            System.out.println(year + "  Год не високосный");
         }
     }
 
